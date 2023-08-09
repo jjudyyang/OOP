@@ -1,8 +1,9 @@
 # OOP
 Repo for Object Oriented Programming Concepts in C++ (cs246).
 
-# Topics 
+# Topics  
 - Design Patterns
+- 
 
-TODO, edit this. 
+# Topics Left
 
