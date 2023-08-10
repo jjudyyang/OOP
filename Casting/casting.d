@@ -1,0 +1,1 @@
+casting.o: casting.cc

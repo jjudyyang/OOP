@@ -1,4 +1,4 @@
-# Virtual Function
+## Virtual Function
 virtual function is a member function of base class which can be redefined by derived class
 - not abstract 
 - defination is given in base class 
@@ -6,7 +6,7 @@ virtual function is a member function of base class which can be redefined by de
 - if derived class does not redefine function of base class, then it does NOT affect compilation
 
 
-# Pure Virtual Function 
+## Pure Virtual Function 
 - class is abstract 
 - only declaration is provided in base class, no defination
 - object can not be instantiated
