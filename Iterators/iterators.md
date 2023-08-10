@@ -9,5 +9,3 @@
 ## Boundaries 
 - prevent accessing elements beyond containers boundaries
 
-## Performance
-- 
