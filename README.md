@@ -52,14 +52,11 @@ Design Patterns
 - factory method pattern
 - template method pattern
 - iterator pattern 
-- vistor pattern
-- bridge pattern
-- iterator pattern
 
 Idioms
 - RAII
 - NVI
-- pImpl
+- pImpl (used in exception safety)
 - copy and swap
 
 Standard Template Library
@@ -77,6 +74,9 @@ Casting
 VTables and virtual inheritance 
 
 Exception Safety, throw, catch
+- basic 
+- strong
+- no throw
 
 Coupling, Cohesion
 
