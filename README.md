@@ -1,7 +1,7 @@
 # Object Oriented Programming
 
 ### About 
-Personal repo for studying C++ Object Oriented Programming Concepts (cs246)
+Personal repo for C++ Object Oriented Programming Concepts 
 
 # Topics  
 
