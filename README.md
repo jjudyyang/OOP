@@ -3,12 +3,6 @@
 ### About 
 Personal repo for studying C++ Object Oriented Programming Concepts (cs246)
 
-#### Edit/Update: 
-- I passed the course!! 
-- The final was hard but definatly not has hard as the midterm! 
-- If you are a cs246 student @ waterloo and stumble upon this repo, you got this and I hope it helps! cs246 is a tough course but stick through with it till the end! if you need some study motivation check out my youtube channel @ judy vs world.
-- good luck! and all the best <3
-
 # Topics  
 
 ## Pre Midterm
